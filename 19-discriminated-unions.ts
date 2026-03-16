@@ -83,3 +83,4 @@ function describeShape(shape: Shape): string {
             // to handle it here, TS will throw a compile error
     }
 }
+export {};

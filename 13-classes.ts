@@ -171,3 +171,4 @@ class MathHelper {
 
 MathHelper.PI;          // 3.14159
 MathHelper.square(5);   // 25
+export {};
